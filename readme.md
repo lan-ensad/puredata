@@ -14,4 +14,4 @@
 
 |lib|description|
 |--|--|
-|comport|allow serial communication (arduino, esp etc...)|
+|**comport**|allow serial communication (arduino, esp etc...)|
